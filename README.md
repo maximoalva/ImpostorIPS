@@ -1,2 +1,6 @@
-# ImpostorIPS
-Juego del impostor personalizado para Android creado usando la librería Kivy de Python.
+# Impostor IPS
+> Juego del impostor para Android desarrollado usando la librería Kivy en Python.  
+> Personalizado con nombres de mis compañeros de escuela para reírnos un rato.  
+
+## 📥 Descargar APK
+Podés descargar la última versión compilada de la aplicación lista para instalar en cualquier dispositivo Android desde la sección **[Releases](../../releases/latest)** de este repositorio.
